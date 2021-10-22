@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class ZohoTask {
+public class Main {
 	public static int total_stu;
 	public static String subject;
 
